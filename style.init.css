@@ -6,4 +6,5 @@
 @theme {
   --font-poppins: "Poppins", sans-serif;
   --font-eb-garamond: "EB Garamond", serif;
+  --card-bg: linear-gradient(180.00deg, rgba(243, 243, 243, 1) 0%,rgba(243, 243, 243, 0) 100%);
 }
